@@ -1,27 +1,20 @@
 # Hello ! Voici ce qu'il faut taffer pour les partiels
-#### Vous êtes libres de proposer des modifs directement ici !
 
-  
-* Elec - Lundi 10h-11h30 : Tout jusqu'à Milman
-* Archi - Lundi 13h-14h30 : Tout jusqu'à Karnaugh
-  
-* Algo - Mardi 10h-12h : Tous les mimos "Algorithmique S1 et S1#"
-* CIE - Mardi 13h30-15h : Même qu'au midterms + Reading comprehension  
-        Articles 13,16,18,19 : Vocabulary and short answer questions like in the mid-term  
-        Grammar : Active-Passive (Chapter 11 of the grammar book) and tenses (Chapter 3 of the grammar book)  
-        There will be an MCQ part on grammar and articles in which there will be negative points.  
-        A short reading comprehension
-  
-* Maths - Mercredi 10h-13h : Logique + Arithmétique (Equations diophentienne, Gauss, Division Euclidienne, Modulos, Congruences) + Polynomes
-* TIM - Mercredi 14h30-16h : “The Internet, we built that” article – You will not have it during the exam so you need to revise                              it thoroughly.  
-         “Communicating Strategically” MOOC – specifically lectures: 3, 4, 5, 6, 11 and 12  
-         Reducing informalities from AWGS – Revise “Stylistic Features” points 1 to 10 on page 14 to 17 on the TIM package -            you will have sentences to rewrite at the end of the final just like for the Mid-term.
-  
-* Physique - Jeudi 10h-11h30 : QCM : TD 4, 5, 6, Mimos 10, 11, 12, réviser les 3 derniers QCM
-                               Exos : TD 4, 5, 6
-* TE - Jeudi 13h-15h :
-  + 50 questions de Français
-  + QCM de culture G (Texte marques corporelles, Éducation 1 et 2 Medecine et Représentations du Vin sur grp FB)
-  + Petite rédaction
-    
-* Prog - 9h30-13h : C# (pas d'OCaml)
+## Vous êtes libres de proposer des modifs directement ici !
+
+
+|  Matière |  Heure de l'examen |                                                                                                                                                                                                       A réviser                                                                                                                                                                                                      |
+|:--------:|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   Elec   |   Lundi 10h-11h30  | Tout jusqu'à Milman                                                                                                                                                                                                                                                                                                                                                                                                  |
+|   Archi  |   Lundi 13h-14h30  | Tout jusqu'à Karnaugh                                                                                                                                                                                                                                                                                                                                                                                                |
+|          |                    |                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|   Algo   |    Mardi 10h-12h   | Tous les mimos "Algorithmique S1 et S1#"                                                                                                                                                                                                                                                                                                                                                                             |
+|    CIE   |   Mardi 13h30-15h  | * Même qu'au midterms + Reading comprehension * Articles 13,16,18,19 : Vocabulary and short answer questions like in the mid-term * Grammar : Active-Passive (Chapter 11 of the grammar book) and tenses (Chapter 3 of the grammar book) * There will be an MCQ part on grammar and articles in which there will be negative points * A short reading comprehension                                                  |
+|          |                    |                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|   Maths  |  Mercredi 10h-13h  | * Logique * Arithmétique (Equations diophentienne, Gauss, Division Euclidienne, Modulos, Congruences) * Polynomes                                                                                                                                                                                                                                                                                                    |
+|    TIM   | Mercredi 14h30-16h | * “The Internet, we built that” article – You will not have it during the exam so you need to revise, it thoroughly * “Communicating Strategically” MOOC – specifically lectures: 3, 4, 5, 6, 11 and 12 * Reducing informalities from AWGS – Revise “Stylistic Features” points 1 to 10 on page 14 to 17 on the TIM package - you will have sentences to rewrite at the end of the final just like for the Mid-term. |
+|          |                    |                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Physique |   Jeudi 10h-11h30  | * QCM : TD 4, 5, 6, Mimos 10, 11, 12, réviser les 3 derniers QCM * Exos : TD 4, 5, 6                                                                                                                                                                                                                                                                                                                                 |
+|    TE    |    Jeudi 13h-15h   | * 50 questions de Français * QCM de culture G (Texte marques corporelles, Éducation 1 et 2 Medecine et Représentations du Vin sur grp FB) * Petite rédaction                                                                                                                                                                                                                                                         |
+|          |                    |                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|   Prog   |  Venderdi 9h30-13h | C# (pas d'OCaml)                                                                                                                                                                                                                                                                                                                                                                                                     |
