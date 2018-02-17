@@ -1,9 +1,9 @@
 # TO WORK 
 
-* Elec : ?
-* Archi : ?
-* Maths : ?
-* Physique : ?
-* TIM : ?
-* CIE : ?
-* Algo : ?
+* Elec : Bobbine et Condensateur
+* Archi : BasculeD
+* Maths : Espaces vectoriels
+* Physique : Thermo
+* TIM : Unity 7, 8
+* CIE : Chap 4,5,6
+* Algo : Arbres généraux
