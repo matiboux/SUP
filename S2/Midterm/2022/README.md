@@ -4,7 +4,7 @@
 |:-:|:-:|:-|
 |   Algo   |   Lundi 8h30-10h30  | <ul> <li> Tous les mimos </li> <li> Td sur matrices et arbres </li> <li> Arbres binaires en Python </li></ul> |
 | TIM | Lundi 10h45-12h15 | edX ??? Questions sur texte random ?? |
-| Physique | Mardi 10h00-11h30 | <ul> <li> Mimo 21 -> 1 exo </li> <li> + ??? </li> </ul> |
+| Physique | Mardi 10h00-11h30 | <ul> <li> Mimos 20 & 21 -> 1 exo </li> <li> TD 8, 9, 10 </li> </ul> |
 | Elec | Mardi 11h45-13h15 | TD 1 + TD 2 |
 | Maths | Mercredi 8h30-11h30 | <ul><li>Calcules d'integrales : <ul> <li> IPP </li> <li> Changement variables</li> <li>Primitives de base</li> </ul></li><li>Suites</li><li>Espaces vectoriels (pages 1&2 du TD) (sous-espaces supplementaires, sous-espaces lineaires ??)</li> <li>Algebre lineaire</li> </ul> |
 | CIE | Jeudi 9h00-10h30 | <ul><li>1984 (chapitre 1 a 8)</li><li>Grammaire chap. 4 6 14</li><li>Faux amis ?</li></ul>|
