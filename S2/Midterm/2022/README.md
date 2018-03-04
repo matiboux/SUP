@@ -1,4 +1,4 @@
-# To Work pour les partiels : 
+# To Work pour le midterm : 
 
 |  Matière |  Heure de l'examen | A réviser |
 |:-:|:-:|:-|
