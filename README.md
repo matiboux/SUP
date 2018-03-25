@@ -20,3 +20,6 @@ N'hésitez pas à faire des ajouts si vous avez des docs qui pourraient aider le
 
 * Pour faire des modifs sur le git -> [ici](Participer.md)
 * La liste des choses à faire dans le git -> [ici](TODO.md)
+
+## Merci de bien vouloir compresser vos scans pour ne pas saturer le repos:
+* `gs -q -dSAFER -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -sOutputFile=output.pdf -f input.pdf`
