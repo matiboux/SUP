@@ -22,7 +22,7 @@
 
 ## Archi :
 * [EN] http://debug-pro.com/epita/s1/en/
-* [FR] http://debug-pro.com/epita/s3/fr/
+* [FR] http://debug-pro.com/epita/s1/fr/
 
 ## Wiki-prog :
 * https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation
