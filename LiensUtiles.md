@@ -15,14 +15,18 @@
 
 ## Intra :
 * https://intra.cri.epita.net/
+* https://acdc.cri.epita.net/
 * https://console.bocal.org/#/login (Pour les licences de logiciels tel que VS Entreprise, VMWare Pro 14, W10 Pro, etc..)
+* http://odyssee.epita.fr/ (Séjour à l'international)
 
 ## Notes :
 * https://prepa-epita.helvetius.net/pegasus/
 
 ## Archi :
-* [EN] http://debug-pro.com/epita/s1/en/
-* [FR] http://debug-pro.com/epita/s1/fr/
+* [EN] http://debug-pro.com/epita/s1/en/ (S1)
+* [FR] http://debug-pro.com/epita/s1/fr/ (S1)
+* [EN] http://debug-pro.com/epita/s2/en/ (S2)
+* [FR] http://debug-pro.com/epita/s2/fr/ (S2)
 
 ## Wiki-prog :
 * https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation
