@@ -1,42 +1,52 @@
 # Liste de site internets géniaux !
 
-## Annales :
-* http://mastercorp.epita.eu/
-* https://epiportal.com/
-* https://algo-td.infoprepa.epita.fr/algo/exam/
+## Annales
 
-## Algo :
-* https://algo-td.infoprepa.epita.fr/
-* https://algo.infoprepa.epita.fr/index.php/Epita:Algo:Cours
+* [mastercorp.epita.eu](http://mastercorp.epita.eu)
+* [epiportal.com](https://epiportal.com)
+* [algo-td.infoprepa.epita.fr/algo/exam](https://algo-td.infoprepa.epita.fr/algo/exam)
 
-## Communication et Relation entreprises:
-* http://intracom.epita.fr/
-* https://www.epita.net/
+## Algo
 
-## Intra :
-* https://intra.cri.epita.net/
-* https://acdc.cri.epita.net/
-* https://console.bocal.org/#/login (Pour les licences de logiciels tel que VS Entreprise, VMWare Pro 14, W10 Pro, etc..)
-* http://odyssee.epita.fr/ (Séjour à l'international)
+* [algo-td.infoprepa.epita.fr](https://algo-td.infoprepa.epita.fr)
+* [algo.infoprepa.epita.fr/index.php/Epita:Algo:Cours](https://algo.infoprepa.epita.fr/index.php/Epita:Algo:Cours)
 
-## Notes :
-* https://prepa-epita.helvetius.net/pegasus/
+## Communication et Relation entreprises
 
-## Archi :
-* [EN] http://debug-pro.com/epita/s1/en/ (S1)
-* [FR] http://debug-pro.com/epita/s1/fr/ (S1)
-* [EN] http://debug-pro.com/epita/s2/en/ (S2)
-* [FR] http://debug-pro.com/epita/s2/fr/ (S2)
+* [intracom.epita.fr](http://intracom.epita.fr)
+* [www.epita.net](https://www.epita.net)
+* [odyssee.epita.fr](http://odyssee.epita.fr)
 
-## Wiki-prog :
-* https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation
+## Intras
 
-## Mimos :
-* https://ionisx.com/
+* [intra.cri.epita.net](https://intra.cri.epita.net)
+* [acdc.cri.epita.net](https://acdc.cri.epita.net)
+* [console.bocal.org/#/login](https://console.bocal.org/#/login) (Pour les licences de logiciels tel que VS Entreprise, VMWare Pro 14, W10 Pro, etc.)
+* [odyssee.epita.fr](http://odyssee.epita.fr) (Séjour à l'international)
 
-## Majeures :
-* https://www.lse.epita.fr/
-* https://srs.epita.fr/
-* https://www.lrde.epita.fr/wiki/Home
-* https://www.3ie.fr/
-* https://dev.sigl.epita.fr/
+## Notes
+
+* [prepa-epita.helvetius.net/pegasus](https://prepa-epita.helvetius.net/pegasus)
+
+## Archi
+
+* [EN] [debug-pro.com/epita/s1/en](http://debug-pro.com/epita/s1/en) (S1)
+* [FR] [debug-pro.com/epita/s1/fr](http://debug-pro.com/epita/s1/fr) (S1)
+* [EN] [debug-pro.com/epita/s2/en](http://debug-pro.com/epita/s2/en) (S2)
+* [FR] [debug-pro.com/epita/s2/fr](http://debug-pro.com/epita/s2/fr) (S2)
+
+## Wiki-prog
+
+* [wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation](https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation)
+
+## Mimos
+
+* [ionisx.com](https://ionisx.com)
+
+## Majeures
+
+* [www.lse.epita.fr](https://www.lse.epita.fr)
+* [srs.epita.fr](https://srs.epita.fr)
+* [www.lrde.epita.fr/wiki/Home](https://www.lrde.epita.fr/wiki/Home)
+* [www.3ie.fr](https://www.3ie.fr)
+* [dev.sigl.epita.fr](https://dev.sigl.epita.fr)
