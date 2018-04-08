@@ -1,4 +1,3 @@
-```Markdown
 =======================
 # Taff pour Contrôles #
 =======================
@@ -39,5 +38,3 @@
 - https://mega.nz/#F!NbQC2SCQ!wMGsrNebc64csgVtA247Lw J'ai upload les qcm que l'on a eu
 
 > Si vous avez plus d'info, n'hésitez pas a me tag pour que je puisse update ce post
- 
-```
