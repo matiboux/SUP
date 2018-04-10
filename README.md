@@ -3,6 +3,7 @@
 Des documents pour pouvoir taffer
 
 N'hésitez pas à faire des ajouts si vous avez des docs qui pourraient aider les autres.
+Veillez bien à suivre les [conventions de nommage des fichiers](Naming.md)
 
 ## Une liste de liens intéressants pour bosser
 
@@ -23,6 +24,7 @@ N'hésitez pas à faire des ajouts si vous avez des docs qui pourraient aider le
 
 ## Si vous voulez participer et nous aider
 
+* Veillez bien à suivre les [conventions de nommage des fichiers](Naming.md)
 * Pour faire des modifs sur le git -> [ici](Participer.md)
 * La liste des choses à faire dans le git -> [ici](TODO.md)
 

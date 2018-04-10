@@ -7,7 +7,9 @@ Je vais vous présenter 2 choses :
 
 Mais premièrement, il vous faut créer votre copie du "projet", pour cela, cliquez sur le bouton `Fork`
 Désormais vous travaillerez sur le projet qui se trouve sur votre propre "espace"
- 
+
+Veillez bien à suivre les [conventions de nommage des fichiers](Naming.md)
+
 ## Via le site web de github
 
 ### Ajouter des fichiers
@@ -36,4 +38,4 @@ A completer
 ## Via git bash : [Installation ici](https://git-for-windows.github.io/)
 
 Je vous conseille ce site qui explique pas mal du tout les opérations à effectuer :
-https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git
+[OpenClassrooms : gérez vos codes source avec Git](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git)
