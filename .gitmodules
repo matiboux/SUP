@@ -1,0 +1,3 @@
+[submodule "A-trier/HypAnal"]
+	path = A-trier/HypAnal
+	url = https://github.com/Hyperion60/Annales.git
