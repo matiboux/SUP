@@ -1,6 +1,9 @@
 EPINAL - PARTIEL 2022
 ===
 
+EPINAL - PARTIEL 2022
+===
+
 |Matiere | Horaire | Work |
 |:------:|:-------:|:-----|
 | Archi | ?? | Les compteurs + Les microprocesseurs |
@@ -8,6 +11,7 @@ EPINAL - PARTIEL 2022
 | PHYSIQUE | ?? | <ul>    <li> QCM sur 4 pts</li>    <li> 2 exos sur 4 pts</li>    <li> Un exo sur un cycle (non vu en td) -> Revoir toute la thermo</li>    <li> TD10 : 4 formules a connaitre</li>    <li> Demonstration de cours mimo 22 et 23 + TD </li></ul> |
 | MATHS | ?? | Algebre linéaire 1+2 ( rev,ker,im,matrice etc ) + fractions rationnelles |
 | ALGO | ?? | ABR + AVL + arbre 2-3-4 |
-| CIE | ?? | Toute la derniere partie du livre 1984 |
+| CIE | ?? | <ul><li>Tout le livre mais plus specifiquement : <ul><li>Le livre de Goldstein (fin partie II)</li><li> L'interogation de O'Brien</li><li> [Les mots de newspreak](https://en.wikipedia.org/wiki/List_of_Newspeak_words) </li></ul></li></ul> |
 | TIM | ?? | [IDK] | 
+
 ## Oubliez pas le TOEIC
