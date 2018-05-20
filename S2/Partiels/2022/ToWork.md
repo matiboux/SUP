@@ -1,9 +1,6 @@
 EPINAL - PARTIEL 2022
 ===
 
-EPINAL - PARTIEL 2022
-===
-
 |Matiere | Horaire | Work |
 |:------:|:-------:|:-----|
 | Archi | ?? | Les compteurs + Les microprocesseurs |
