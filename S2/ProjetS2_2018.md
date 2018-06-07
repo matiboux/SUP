@@ -1,7 +1,7 @@
 # Liste des projets S2 EPITA
 ## Promotion 2022
 
-Voici la liste des projets réalisés par les étudiants EPITA de la promotion 2022. Pour ajouter votre projet, il suffit d'éditer le [document Markdown](tofix) (en respectant la syntaxe) et d'envoyer un pull request. *Merci de lire la section README avant d'envoyer*.
+Voici la liste des projets réalisés par les étudiants EPITA de la promotion 2022. Pour ajouter votre projet, il suffit d'éditer le [document Markdown](https://github.com/Epinnal/SUP/blob/master/S2/ProjetS2_2018.md) (en respectant la syntaxe) et d'envoyer un pull request. *Merci de lire la section README avant d'envoyer*.
 
 <!-- README -->
 <!-- Insérez les logins en commençant par celui du chef de groupe -->
