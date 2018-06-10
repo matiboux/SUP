@@ -12,3 +12,4 @@ Voici la liste des projets réalisés par les étudiants EPITA de la promotion 2
 | Nom du projet | Nom du groupe | Membres (login) | Description du projet | Site web |
 |------|--------|--------------|--------------|--------|
 |EPITA| Votai Test. | joel.courtois claudine.cavatorta | Un incroyable projet | [EPITA.fr](http://www.epita.fr) |
+|Synth Patrol| Team Gozzkra | mathieu.bouchet dorian.de-rosa victor.pellan | Starfox x Outrun | [synthpatrol.space](http://synthpatrol.space) |
