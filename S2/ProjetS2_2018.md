@@ -11,4 +11,4 @@ Voici la liste des projets réalisés par les étudiants EPITA de la promotion 2
 
 | Nom du projet | Nom du groupe | Membres (login) | Description du projet | Site web |
 |------|--------|--------------|--------------|--------|
-|EPITA| Votai Test. | joel.courtois claudine.cavatorta | Un incroyable projet | [EPITA.fr](http://www.epita.fr) |
+|**CatCatch**| *42/2 team* | jean.troffer-charlier paul.decrosse benjamin.decreusefond marc.schmittt | CatCatch, un cache-cache avec des chats. La map c'est le campus d'EPITA Strasbourg. Les chats qui attrapent, ce sont les profs, et les chats qui se font attraper, ce sont les élèves. | [Site web](http://www.catcatch.ovh) |
