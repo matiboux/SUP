@@ -19,7 +19,7 @@ Exemple : `Partiel-2021-s2-algo-corrige-fr_c.pdf`
 
 Un fichier pdf pour les QCM doit être au format suivant :
 
-qmc-[Promotion]-[Semestre]-[Numéro du QCM]-[informations additionnelles][_c if cleaned].pdf
+qcm-[Promotion]-[Semestre]-[Numéro du QCM]-[informations additionnelles][_c if cleaned].pdf
 
 Exemple : `qcm-2021-s2-2.pdf`
 
