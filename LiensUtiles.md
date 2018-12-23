@@ -31,9 +31,8 @@
 ## Archi
 
 * [EN] [debug-pro.com/epita/archi/s1/en](http://debug-pro.com/epita/archi/s1/en/) (S1)
-* [FR] [debug-pro.com/epita/s1/fr](http://debug-pro.com/epita/s1/fr) (S1) (lien mort !)
-* [EN] [debug-pro.com/epita/s2/en](http://debug-pro.com/epita/s2/en) (S2) (lien mort !)
-* [FR] [debug-pro.com/epita/s2/fr](http://debug-pro.com/epita/s2/fr) (S2) (lien mort !)
+* [EN] [debug-pro.com/epita/archi/s2/en](http://debug-pro.com/epita/archi/s2/en/) (S2)
+* [FR] [debug-pro.com/epita/archi/s2/fr](http://debug-pro.com/epita/archi/s2/fr/) (S2)
 
 ## Wiki-prog
 
