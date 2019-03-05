@@ -22,6 +22,12 @@ Veillez bien à suivre les [conventions de nommage des fichiers](Naming.md)
 * [Adobe Scan](https://itunes.apple.com/fr/app/adobe-scan/id1199564834)
 * [Evernote Scannable](https://itunes.apple.com/fr/app/evernote-scannable/id883338188)
 
+## Applications recommandées pour les scans sur PC/Mac
+
+### Windows
+
+* [NAPS2](https://www.naps2.com/) avec une fonctionnalité sympa d'acquisition par lot
+
 ## Si vous voulez participer et nous aider
 
 * Veillez bien à suivre les [conventions de nommage des fichiers](Naming.md)
@@ -30,5 +36,5 @@ Veillez bien à suivre les [conventions de nommage des fichiers](Naming.md)
 
 ## Merci de bien vouloir compresser vos scans pour ne pas saturer le repo
 
-* `gs -q -dSAFER -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -sOutputFile=output.pdf -f input.pdf`
-* `python3 cleaner.py` à la racine de votre repo git
+* Automatiquement (avec renommage en _c) : `python3 cleaner.py` à la racine de votre repo git
+* Manuellement : `gs -q -dSAFER -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -sOutputFile=output.pdf -f input.pdf`
